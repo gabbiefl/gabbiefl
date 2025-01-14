@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=E983CD&width=435&lines=Hello%2C+I'm+Gabbie!" alt="Typing SVG" /></a>
 ---
 
-### 💻 Languages & Technologies:
+### ｡˚○ 🌸 Languages & Technologies:
 <img 
     align="left"
     alt="HTML"
@@ -36,7 +36,7 @@
 />
 
 <br></br>
-### 📊 Stats:
+### ｡˚○ 🌸 Stats:
 <img 
     align="left"
     alt="GitHub Stats"
