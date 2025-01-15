@@ -47,8 +47,8 @@
 
 <img 
     align="left"
-    alt="GitHub Stats"
+    alt="Most Used Languages"
     height="100"
     style="padding-right: 200px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=omni&layout=compact&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=omni&layout=compact&langs_count=7"
 />
