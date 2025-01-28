@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=E983CD&width=435&lines=Hello%2C+I'm+Gabbie!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=33&duration=4000&pause=1000&color=844DC2&width=435&lines=Hello%2C+I'm+Gabbie!;a+Front-End+Developer+%3C3" alt="Typing SVG" /></a>
 ---
 
-### ｡˚○ 🌸 Languages & Technologies:
+### ｡˚○ Languages & Technologies:
 <img 
     align="left"
     alt="HTML"
@@ -28,6 +28,15 @@
 />
 <img 
     align="left"
+    alt="React"
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+
+<img 
+    align="left"
     alt="Python"
     title="Python"
     width="30px"
@@ -36,13 +45,13 @@
 />
 
 <br></br>
-### ｡˚○ 🌸 Stats:
+### ｡˚○ Stats:
 <img 
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gabbiefl&show_icons=true&theme=omni&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=gabbiefl&show_icons=true&theme=midnight-purple&include_all_commits=true"
 />
 
 <img 
@@ -50,5 +59,5 @@
     alt="Most Used Languages"
     height="100"
     style="padding-right: 200px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=omni&layout=compact&langs_count=7"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=midnight-purple&layout=compact&langs_count=7"
 />
