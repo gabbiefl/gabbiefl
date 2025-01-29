@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=33&duration=4000&pause=1000&color=844DC2&width=435&lines=Hello%2C+I'm+Gabbie!;a+Front-End+Developer+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=35&duration=5005&pause=2000&color=834FBE&width=435&lines=Hello%2C+I'm+Gabbie!++%3C3" alt="Typing SVG" /></a>
 ---
 
 ### ｡˚○ Languages & Technologies:
