@@ -1,7 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=35&duration=5005&pause=2000&color=834FBE&width=435&lines=Hello%2C+I'm+Gabbie!++%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=76A4F1&repeat=false&width=435&lines=Hi+there%2C+I'm+Gabbie!" alt="Typing SVG" /></a>
 ---
-
-### ｡˚○ Languages & Technologies:
+### ｡˚○ Technologies:
 <img 
     align="left"
     alt="HTML"
@@ -51,13 +50,13 @@
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=gabbiefl&show_icons=true&theme=midnight-purple&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=gabbiefl&show_icons=true&theme=tokyonight&include_all_commits=true"
 />
 
 <img 
     align="left"
     alt="Most Used Languages"
-    height="100"
-    style="padding-right: 200px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=midnight-purple&layout=compact&langs_count=7"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=tokyonight&layout=compact&langs_count=7"
 />
