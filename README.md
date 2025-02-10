@@ -56,7 +56,7 @@
 <img 
     align="left"
     alt="Most Used Languages"
-    height="100"
-    style="padding-right: 10px;"
+    height="150"
+    style="padding-right: 100px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&theme=tokyonight&layout=compact&langs_count=7"
 />
