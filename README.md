@@ -27,7 +27,7 @@ a technical degree focused on software development.
   ![Vite](https://img.shields.io/badge/-Vite-1a1b26?style=for-the-badge&logo=vite&labelColor=1a1b26&color=1a1b26)&nbsp;
   ![Canva](https://img.shields.io/badge/-Canva-1a1b26?style=for-the-badge&logo=canva&labelColor=1a1b26&color=1a1b26)&nbsp;
 
-   ## Github Stats
+   ## Github stats
 
 <div align='center'>
 
