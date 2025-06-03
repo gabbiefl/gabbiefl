@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,py,java,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,py,figma,vscode" />
   </a>
 </div>
 
@@ -31,9 +31,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriela-flores-lopes">
-    <img src="https://img.shields.io/badge/-LinkedIn-736ea7?style=for-the-badge&logo=linkedin&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-BC92EF?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="mailto:gabi.flores@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-736ea7?style=for-the-badge&logo=gmail&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/-Email-BC92EF?style=for-the-badge&logo=gmail&logoColor=fff"/>
   </a>
 </div>
