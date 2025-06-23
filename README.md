@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Capriola&size=25&pause=1500&color=BC92EF&vCenter=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Capriola&pause=1000&color=BC92EF&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);%3CSystem.out.println(%22Hello%2C+World!%22);%3Cprint(%22Hello%2C+World!%22)" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -9,21 +9,22 @@
 
 <p>Olá, meu nome é Gabriela!</p>
 <p>╰› Estudante de Análise e Desenvolvimento de Sistemas.</p>
-<p>╰› Interessada em Desenvolvimento Full-Stack e Design UX/UI. </p>
+<p>╰› Foco em Desenvolvimento Full-Stack e Design UX/UI. </p>
+
 
 <br clear="right" />
 <br>
 
 <div align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbiefl&theme=tokyonight&hide_border=true&background=232937" alt="GitHub Streak"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&layout=compact&hide_border=true&theme=tokyonight&bg_color=232937&langs_count=10" alt="Most Used Languages"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&layout=compact&hide_border=true&theme=tokyonight&bg_color=232937&langs_count=6" alt="Most Used Languages"/>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,py,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,py" />
   </a>
 </div>
 
