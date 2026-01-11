@@ -1,36 +1,33 @@
+<h2>Gabriela Flores</h2>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Capriola&pause=1000&color=ed83c3&center=true&vCenter=true&random=true&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);%3CSystem.out.println(%22Hello%2C+World!%22);%3Cprint(%22Hello%2C+World!%22)" alt="Typing SVG" />
-  </a>
-</h1>
+<img height="250em" align="right" src="https://64.media.tumblr.com/6928b7bfbeb136a05467dc6f1b23a44e/a7dc0e4c671ab758-8c/s1280x1920/c89ff1f26d3ea6ca9e525d9b0e68b0daabc8d734.gifv" />
 
-<img height="230em" alt="GIF" align="right" src="https://i.pinimg.com/originals/8a/eb/9e/8aeb9e7d6b8643782b9080d87b3fbf35.gif" />
+<p><strong>Front-end Developer </strong></p>
 
-<p>Olá, meu nome é Gabriela!</p>
-<p>╰› Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Cesuca.</p>
-<p>╰› Tenho interesse em desenvolvimento Full-stack e foco atual em tecnologias Front-end.</p>
+<blockquote>
+  <em>Turning ideas into interactive and creative experiences ✨</em>
+</blockquote>
+
+<br/>
+<p>
+⤿ Working with <code>HTML</code>, <code>JavaScript</code>, and <code>TailwindCSS</code> at <em>@Megainffo.cloud</em>.
+</p>
+
+<p>
+⤿ Currently learning <code>React.js</code> and <code>TypeScript</code>.
+</p>
 
 <br clear="right" />
-<br>
+<br/>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabbiefl&theme=omni&hide_border=true&background=232937" alt="GitHub Streak"/> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbiefl&layout=compact&hide_border=true&theme=omni&bg_color=232937&langs_count=6" alt="Most Used Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,sass,figma" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,react,java,py" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabriela-flores-lopes">
+  <a href="https://www.linkedin.com/in/gabriela-flores-lopes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-222937?style=for-the-badge&logo=linkedin&logoColor=fff"/>
   </a>
   <a href="mailto:gabrielafl.dev@gmail.com">
