@@ -2,26 +2,20 @@
 
 <img height="250em" align="right" src="https://64.media.tumblr.com/6928b7bfbeb136a05467dc6f1b23a44e/a7dc0e4c671ab758-8c/s1280x1920/c89ff1f26d3ea6ca9e525d9b0e68b0daabc8d734.gifv" />
 
-<p><strong>Front-end Developer </strong></p>
+<p><strong>Front-End Developer </strong></p>
 
 <blockquote>
-  <em>Turning ideas into interactive and creative experiences ✨</em>
+  <em>Turning ideas into creative experiences ✨</em>
 </blockquote>
 
 <br/>
-<p>
-⤿ Working with <code>HTML</code>, <code>JavaScript</code>, and <code>TailwindCSS</code> at <em>@Megainffo.cloud</em>.
-</p>
 
-<p>
-⤿ Currently learning <code>React.js</code> and <code>TypeScript</code>.
-</p>
 
 <br clear="right" />
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwindcss,js,ts,python,react,figma" />
 </div>
 
 <br/>
