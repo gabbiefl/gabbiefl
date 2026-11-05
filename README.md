@@ -34,7 +34,7 @@ Full-stack Developer with over a year of professional experience developing web 
 
 ⭑ **Data Analysis**
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
 ⭑ **Mobile**
 
